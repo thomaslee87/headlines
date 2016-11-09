@@ -10,4 +10,8 @@
 
 `mvn clean package`
 
-启动后登录：`oozhu` : `admin`
++ 数据库配置：
+    `src/resources/jeesite.properties`
+    
++ 启动后登录
+    `oozhu` : `admin`
